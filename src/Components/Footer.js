@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer className="bg-gray px-20 py-8">
-      <h2 className="font-medium text-xl italic">Epicure Enclave</h2>
+      <h2 className="font-medium text-2xl italic">Epicure Enclave</h2>
       <div className="flex flex-row justify-between pb-8">
         <div className="flex flex-col py-8">
           <h3 className="text-base py-1 font-medium">About Epicure Enclave</h3>
